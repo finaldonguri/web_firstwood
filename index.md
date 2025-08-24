@@ -1,4 +1,7 @@
-# 鶏冠山登山
+---
+title: 鶏冠山登山
+---
+
 ![鶏冠山](https://cdn.yamap.co.jp/public/image2.yamap.co.jp/production/0bb25a43-e4bf-4ebd-be98-180d8d69c663?h=720&q=50&t=resize&w=400&q=60)
 
 #### 更新履歴
