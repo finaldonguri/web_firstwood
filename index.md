@@ -61,7 +61,7 @@ title: 鶏冠山登山
 
 #### 地域概念図
 
-![MAP](https://media.discordapp.net/attachments/1408826914399064187/1408826995852312726/keikannyama.png?ex=68ab27e2&is=68a9d662&hm=81fbed062ddca0f14cbec8487d35c2d259d7cbf35b255f00832ab926fec3abf5&=&format=webp&quality=lossless)
+![MAP](index.md/img/keikan_map.png)
 
 [国土地理院地形図(クリックで開きます)](https://maps.gsi.go.jp/#15/34.977232/136.007609/&base=std&ls=std&disp=1&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1)
 
@@ -133,6 +133,10 @@ title: 鶏冠山登山
 ### 記録体制
 - スマホアプリ([Runkeeper](https://runkeeper.com/ja/)など)にて、GPXログを取得する。対象は上桐生登山口出発後、同地点帰着まで。昼食時などは測定停止可。
 - 写真撮影は自由に行う。
+
+### その他
+- [滋賀県熊出没マップ](https://www.google.com/maps/d/u/0/viewer?mid=1rE5HcSdJnm2gX3iT1FMt0aCVuQ9ArDs&ll=34.98091430000003%2C135.98476090000003&z=12)
+- [クマ出没情報ブログ(滋賀県)](http://sukeroku.blog55.fc2.com/blog-category-52-1.html)
 
 ---
 
