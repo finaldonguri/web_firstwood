@@ -61,7 +61,7 @@ title: 鶏冠山登山
 
 #### 地域概念図
 
-![MAP](index.md/img/keikan_map.png)
+![MAP](./img/keikan_map.png)
 
 [国土地理院地形図(クリックで開きます)](https://maps.gsi.go.jp/#15/34.977232/136.007609/&base=std&ls=std&disp=1&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1)
 
