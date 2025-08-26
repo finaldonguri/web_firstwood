@@ -14,7 +14,7 @@ title: 鶏冠山登山
 ## 計画書
 ### 趣旨・目的
 
-- 5回連続計画の1回目
+- [5回連続計画](https://finaldonguri.github.io/web_pentad/)の1回目
 - ケガやトラブルなく山を楽しみ、ゴールすること
 - ログをつけてGPXデータを取得し、振り返る
 
@@ -132,7 +132,7 @@ title: 鶏冠山登山
 
 ### 記録体制
 - スマホアプリ([Runkeeper](https://runkeeper.com/ja/)など)にて、GPXログを取得する。対象は上桐生登山口出発後、同地点帰着まで。昼食時などは測定停止可。
-- 写真撮影は自由に行う。
+- 写真・動画撮影は自由に行う。
 
 ### その他
 - [滋賀県熊出没マップ](https://www.google.com/maps/d/u/0/viewer?mid=1rE5HcSdJnm2gX3iT1FMt0aCVuQ9ArDs&ll=34.98091430000003%2C135.98476090000003&z=12)
