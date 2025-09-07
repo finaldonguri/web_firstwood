@@ -125,6 +125,7 @@ title: 鶏冠山登山
 - [x] 印刷した1/25,000 地形図
 - [x] [コンパス](https://www.yodobashi.com/product/100000001001857090/)
 - [x] ファーストエイドボックス（内容は**医療計画**参照）
+- [x] [セーフカード（マダニとり）](https://www.musashi-innovations.com/safecard-introduction)
   
 ### 気象
 - 前日18時時点の当該地域（滋賀県(1)草津市・栗東市）の[天気予報](https://tenki.jp/forecast/6/28/6010/25206/)で降水確率**60%以上**であれば、中止または延期する。
